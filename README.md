@@ -1,5 +1,5 @@
-<h1>Emerging India Blog</h1>
+<h1 align="centre">Emerging India Blog</h1>
 
 <p>
-  The website developed using HTML, CSS, JavaScript.
+  The website was developed using HTML, CSS, and JavaScript.
 </p>
